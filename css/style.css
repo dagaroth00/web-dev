@@ -28,21 +28,22 @@
       margin-top: 64px;
     }
 
+
     @media (max-width: 450px) {
-      .card-intro {
+    .card-intro {
         margin-top: 56px;
       }
     }
 
     @media (min-width: 1441px) {
-      .card-intro {
+    .card-intro {
         padding-left: 0 !important;
       }
     }
 
 
     @media screen and (max-width: 600px) {
-        .sm {
+    .sm {
     visibility: hidden;
     display: none;
   }
